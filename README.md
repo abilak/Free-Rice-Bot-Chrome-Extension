@@ -5,7 +5,6 @@ I plan on expanding it further to other modes.
 
 Instructions: 
 
-Instructions: 
 1. Open the zip file, and you'll get a folder
 2. Type chrome://extensions in your search bar on chrome
 3. Turn on developer mode (the option should be at the top right of the page)
