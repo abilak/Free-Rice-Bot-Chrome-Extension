@@ -15,3 +15,6 @@ Instructions:
 6. The extension should already be turned on. However, you will need to refresh the page for it to activate (for some it might just work without having to refresh).
 
 and that's it!
+
+# If you don't have chrome: 
+Copy the code from the JacaScript file and put it into the console of Inspect Element menu. 
