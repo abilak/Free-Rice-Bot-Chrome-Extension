@@ -17,4 +17,4 @@ Instructions:
 and that's it!
 
 # If you don't have chrome: 
-Copy the code from the JacaScript file and put it into the console of Inspect Element menu. 
+Copy the code from the JacaScript file in the zip file and put it into the console of Inspect Element menu. 
